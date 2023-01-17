@@ -1,0 +1,38 @@
+#t-div {
+  background-color: white;
+  text-align: center;
+  font-size: 50px;
+  height: 100px;
+  margin-top: 0;
+}
+
+#main-div {
+  display: grid;
+  grid-template-columns: 2fr 1fr 2fr;
+  height: 300px;
+  padding-top: 20px;
+}
+
+#b-div {
+  background-color: aquamarine;
+  border-radius: 20px;
+  padding-top: 10px;
+}
+
+#t-1 {
+  color: black;
+}
+
+#input2 {
+  color: white;
+  background-color: black;
+}
+
+#t-2 {
+  text-align: center;
+}
+
+#img-1 {
+  width: 70px;
+  padding-left: 100px;
+}
